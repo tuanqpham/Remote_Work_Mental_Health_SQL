@@ -11,5 +11,5 @@ As part of the project, I am planning to also hone skills in writing SQL queries
 
 Link to Tableau dashboard: [COMING SOON]
 
-### P/S: This project, though may have addressed all of my planned questions, is subject to significant improvement as I advance in my SQL learning journey as well as discover better approaches to my analysis! Therefore, the report is due to improvement at any time :)
+### P/S: This project, though may have addressed all of my planned questions, is subject to significant improvement as I advance in my SQL learning journey as well as discover better approaches to my analysis! Therefore, the report is subjected to change at any time :)
 
