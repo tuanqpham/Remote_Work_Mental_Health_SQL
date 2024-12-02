@@ -9,7 +9,8 @@ In this project, I will be utilizing a fictional dataset provided on Kaggle (lin
 
 As part of the project, I am planning to also hone skills in writing SQL queries and (perhaps learn how to write optimized scripts)
 
-Link to Tableau dashboard: [COMING SOON]
+Link to Tableau dashboard: https://public.tableau.com/app/profile/quang.tuan.pham/viz/RemoteWorkandMentalHealthDashboard/WorkersDemographicDashboard?publish=yes
+
 
 ### P/S: This project, though may have addressed all of my planned questions, is subject to significant improvement as I advance in my SQL learning journey as well as discover better approaches to my analysis! Therefore, the report is subjected to change at any time :)
 
